@@ -1,2 +1,2 @@
 
-A new Flutter project with various animations.
+A new Flutter project with various basic animations.
